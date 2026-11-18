@@ -1,0 +1,143 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Middle Ear Ventilation | Dr. Mihaly Fucsek</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 35px 22px;
+      color: #243447;
+      line-height: 1.7;
+      background: #fafcff;
+    }
+    header {
+      background: #123b60;
+      color: white;
+      padding: 35px;
+      border-radius: 10px;
+    }
+    h1 { line-height: 1.25; }
+    h2 {
+      color: #123b60;
+      border-bottom: 1px solid #dce5ee;
+      padding-bottom: 8px;
+      margin-top: 35px;
+    }
+    a { color: #1467a5; }
+    header p { color: #e4edf5; }
+    footer {
+      margin-top: 45px;
+      border-top: 1px solid #ddd;
+      padding-top: 15px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Middle Ear Ventilation</h1>
+  <p>Theoretical Models and Research</p>
+  <p>Dr. Mihaly Fucsek</p>
+</header>
+
+<main>
+  <h2>Research Overview</h2>
+  <p>
+    This website presents theoretical research on
+    the physiological mechanisms of middle ear
+    ventilation and gas exchange.
+  </p>
+
+  <p>
+    The proposed model examines the dynamic
+    interaction between continuous transmucosal
+    gas diffusion and intermittent Eustachian
+    tube ventilation.
+  </p>
+
+  <h2>Physiological Principles</h2>
+  <p>
+    Middle ear ventilation has two important
+    functions: maintaining pressure relative
+    to the surrounding atmosphere and regulating
+    the gas composition of the middle ear cavity.
+  </p>
+
+  <p>
+    Oxygen and nitrogen exchange with surrounding
+    tissues through diffusion driven by their
+    partial-pressure gradients.
+    Intermittent opening of the Eustachian tube
+    allows pressure-driven gas exchange with
+    the nasopharynx.
+  </p>
+
+  <h2>Dynamic Equilibrium</h2>
+  <p>
+    The research proposes that the interaction
+    of these processes can establish a dynamic
+    equilibrium of middle ear gases.
+    Mathematical modelling is used to explore
+    this hypothesis.
+  </p>
+
+  <h2>Published Research</h2>
+  <p>
+    Fucsek M, Molnarka GY (2022).
+    <em>A Mathematical Model of Middle Ear
+    Ventilation. Controlled Valvular
+    Tympanostomy Tube.</em>
+  </p>
+  <p>
+    Journal of Biomedical Research and
+    Clinical Reviews, 7(1).
+  </p>
+  <p>
+    DOI:
+    <a href="https://doi.org/10.31579/2690-4861/122">
+      10.31579/2690-4861/122
+    </a>
+  </p>
+
+  <h2>Proposed Valvular Tympanostomy Tube</h2>
+  <p>
+    A theoretical passive, bidirectional,
+    pressure-controlled tympanostomy tube
+    is proposed to provide intermittent
+    pressure equalization rather than
+    permanent open ventilation.
+  </p>
+  <p>
+    The concept remains theoretical and
+    requires experimental validation.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    Dr. Mihaly Fucsek<br>
+    Email:
+    <a href="mailto:drfucsek@gmail.com">
+      drfucsek@gmail.com
+    </a><br>
+    ORCID:
+    <a href="https://orcid.org/0000-0001-5997-6591">
+      0000-0001-5997-6591
+    </a>
+  </p>
+</main>
+
+<footer>
+  <p>
+    Middle Ear Ventilation Research.
+    Scientific hypotheses and theoretical models.
+  </p>
+</footer>
+
+</body>
+</html>
